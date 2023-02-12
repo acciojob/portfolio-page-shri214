@@ -1,2 +1,17 @@
-
-/* Your CSS Code here. */
+img{
+	height: 120px;
+	width: 80px;
+	border-radius: 80px;
+}
+#skills{
+	padding: 20px;
+	background-color:grey;
+	margin: 20px;
+	border: 2px solid grey;
+}
+#projects{
+	padding: 20px;
+	background-color:grey;
+	margin: 20px;
+	border: 2px solid grey;
+}
